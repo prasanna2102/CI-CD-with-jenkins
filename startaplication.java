@@ -21,5 +21,4 @@ public class StartApplication {
         SpringApplication.run(StartApplication.class, args);
     }
 
-
 }
